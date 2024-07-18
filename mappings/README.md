@@ -27,3 +27,7 @@
 
 #### SiLK (CERT/NetSA at CMU)
 * SiLK NetFlow
+
+#### Tenable
+* Asset Export/Import API endpoints
+* Vulnerability Export/Import API endpoints
